@@ -32,8 +32,8 @@ const aboutMe = {
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alejandro-morales-42b47123b/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/alejandro-morales-42b47123b/" height="30" width="40" /></a>
-<a href="https://wa.me/message/44EGGQV4XF5JG1?src=qr" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png" alt="https://wa.me/message/44EGGQV4XF5JG1?src=qr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-morales-42b47123b/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/alejandro-morales-42b47123b/" height="30" width="30" /></a>
+<a href="https://wa.me/message/44EGGQV4XF5JG1?src=qr" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png" alt="https://wa.me/message/44EGGQV4XF5JG1?src=qr" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languajes y Herramientas:</h3>
