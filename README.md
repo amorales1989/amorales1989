@@ -22,7 +22,7 @@ const aboutMe = {
 };
 ```
 
-- 🌱 Actualmente estoy aprendiendo **React Native**
+- 🌱 Actualmente estoy haciendo practicas en la empresa **Fuzzy Fish**
 
 - 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
 
