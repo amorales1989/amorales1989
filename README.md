@@ -17,18 +17,18 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL, MySQL"],
    },
 };
 ```
 
 - 🌱 Actualmente estoy haciendo practicas en la empresa **Fuzzy Fish**
 
-- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
+- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, MySQL, TypeScript, Sequelize**
 
 - 📫 Cómo contactarme **a19morales89@gmail.com**
 
-- 📄 Conoce mis experiencias: desde el 2010 - 2015 Trabaje en la empresa "SANDRA MARZZAN" Ubicada en la provincia de Mendoza, donde realice la tarea de encargado de sector, en la cual tenia personal a cargo y debia tomar deciciones sobre la organizacion del personal y deposito tambien realizaba tareas administrativas con respecto al inventario y control de insumos. a partei de Enero del 2015 comence con emprendimientos propios entre los mas importantes fueron el de corte laser CNC donde realizaba diseños en Corel Draw y los cortaba en el CNC el cual culmino en 2020 al comienzo de la pandemia donde tuve que reinventarme y abrimos una distribuidora de colchones la cual administro actualmente.
+- 📄 Conoce mis experiencias: desde el 2010 - 2015 Trabaje en la empresa "SANDRA MARZZAN" Ubicada en la provincia de Mendoza, donde realice la tarea de encargado de sector, en la cual tenia personal a cargo y debia tomar deciciones sobre la organizacion del personal y deposito tambien realizaba tareas administrativas con respecto al inventario y control de insumos. a partei de Enero del 2015 comence con emprendimientos propios entre los mas importantes fueron el de corte laser CNC donde realizaba diseños en Corel Draw y los cortaba en el CNC el cual culmino en 2020 al comienzo de la pandemia donde tuve que reinventarme y abrimos una distribuidora de colchones hata fin de marzo 2023, desde entonces decidi abocarme a la programacion y mientras estoy en la busqueda de mi primer trabajo hago Uber para poder administrar mis tiempos, En este momento me encuentro haciendo unas practicas en la empresa FUZZY FISH a la cual agradezco el darme la oportunidad de adquirir experiencia en proyectos reales donde estoy aprendiendo dia a dia más 
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
